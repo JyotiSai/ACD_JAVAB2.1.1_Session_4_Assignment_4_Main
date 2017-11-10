@@ -1,15 +1,15 @@
 package session4assignments; //Package Declaration
 
 /**
- * This class finds the aliquot sum of a given number, checks if it is a perfect
- * number and prints all perfect numbers between 1 and 100
+ * This class finds the aliquot sum of a given number, checks if it is a perfect number and
+ * prints all perfect numbers between 1 and 100
  *
  */
 public class AliquotPerfect 
 {
 	/**
-	 * This is the main method which accepts command line arguments and returns no
-	 * value
+	 * This is the main method which accepts command line arguments and
+	 * returns no value
 	 *
 	 */
 	public static void main(String[] args) 
