@@ -16,7 +16,7 @@ public class AliquotPerfect
 		{
 			int aliquotSum = 0; //Initialization of Aliquot sum variable
 			
-			for (int divisor = 1; divisor != number; divisor++) //Inner loop for dividing the given number to find aliquot divisors
+			for (int divisor = 1; divisor != number; divisor++) //Inner for loop for dividing the given number to find aliquot divisors
 			{
 				if ((number % divisor) == 0) //If condition using modulo operation to check if the remainder is 0
 				{
