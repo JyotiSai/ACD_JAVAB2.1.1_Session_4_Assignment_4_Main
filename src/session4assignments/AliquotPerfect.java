@@ -1,5 +1,4 @@
 package session4assignments; //Package Declaration
-
 /**
  * This class finds the aliquot sum of a given number, checks if it is a perfect number and
  * prints all perfect numbers between 1 and 100
