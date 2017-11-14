@@ -1,4 +1,4 @@
-package session4assignments; //Package Declaration
+package session4assignments; //Package declaration
 
 /**
  * This class finds the aliquot sum of a given number, checks if it is a perfect
